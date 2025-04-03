@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8938F7&width=435&lines=Hello+World!+My+name+is+Matheus+Nunes%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8938F7&width=435&lines=Hello+World!;My+name+is+Matheus+Nunes!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### Technologies and tools:
 
