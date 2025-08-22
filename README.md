@@ -1,11 +1,9 @@
+<img align="right" alt="nunes-Hoopa" width="250" src="https://media1.tenor.com/m/z0tmdHcp77MAAAAd/hoppa.gif">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8938F7&width=435&lines=Hello+World!;My+name+is+Matheus+Nunes!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### Technologies and tools:
 
-<div class="tenor-gif-embed" data-postid="14937145239505858483" data-share-method="host" data-aspect-ratio="1.58599" data-width="100%">
-  <a href="https://tenor.com/view/hoppa-gif-14937145239505858483">Hoppa GIF</a>
-  from <a href="https://tenor.com/search/hoppa-gifs">Hoppa GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
 <div style="display: inline_block"><br>
   
   <img align="center" alt="nunes-Java" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
