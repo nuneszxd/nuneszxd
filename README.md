@@ -2,6 +2,10 @@
 
 ### Technologies and tools:
 
+<div class="tenor-gif-embed" data-postid="14937145239505858483" data-share-method="host" data-aspect-ratio="1.58599" data-width="100%">
+  <a href="https://tenor.com/view/hoppa-gif-14937145239505858483">Hoppa GIF</a>
+  from <a href="https://tenor.com/search/hoppa-gifs">Hoppa GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 <div style="display: inline_block"><br>
   
   <img align="center" alt="nunes-Java" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
